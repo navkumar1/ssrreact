@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Server side rendering project",
   "engines": {
-    "node": "10.14.1"
+    "node": "10.14.2"
   },
   "main": "index.js",
   "scripts": {
